@@ -42,7 +42,7 @@ A API oferece as seguintes funcionalidades:
 ✅Associar um autor a um livro
 
 
-#### Melhorias de Revisão
+#### Melhorias do commit de Revisão:
 
 - Criação de variáveis de ambiente.
 - Utilização do pacote Dotenv para gerenciar as variáveis de ambiente.
