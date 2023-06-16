@@ -42,6 +42,22 @@ A API oferece as seguintes funcionalidades:
 ✅Associar um autor a um livro
 
 
+#### Melhorias de Revisão
+
+- Criação de variáveis de ambiente.
+- Utilização do pacote Dotenv para gerenciar as variáveis de ambiente.
+- Configuração do ESLint para manter um estilo consistente de código.
+- Refatoração do código utilizando async/await para lidar com operações assíncronas.
+- Refatoração dos outros métodos da API para seguir o padrão async/await.
+- Tratamento de erros ao buscar um recurso por ID.
+- Tratamento de erros relacionados ao uso do Mongoose e ObjectId.
+- Utilização de códigos de status HTTP adequados nas respostas da API.
+- Melhoria no tratamento de erros da API.
+- Utilização de middlewares do Express para melhorar o fluxo da API.
+- Refatoração do manipulador de erros.
+- Tratamento de página 404 quando um recurso não é encontrado.
+
+
 ## Stack utilizada
 
 **Back-end:** Javascript - Node.js - MongoDB
